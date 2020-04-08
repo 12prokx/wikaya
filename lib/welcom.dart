@@ -56,7 +56,7 @@ class _WlcState extends State<Wlc> {
               child: Ink(
                 decoration: BoxDecoration(
                     gradient: LinearGradient(
-                      colors: [Color(0xff8DBF44), Color(0xffD4D92E)],
+                      colors: [Color(0xff8DBF44), Color(0xff8DBF44)],
                       begin: Alignment.centerLeft,
                       end: Alignment.centerRight,
                     ),

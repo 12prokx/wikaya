@@ -4,6 +4,7 @@ import 'package:wikaya/home.dart';
 import 'welcom.dart';
 import 'package:wikaya/phone_verif.dart';
 import 'code.dart';
+import 'phone_verif.dart';
 
 class RouteGenerator {
   static Route<dynamic> generateRoute(RouteSettings settings) {
